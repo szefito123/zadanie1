@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'zadanie'
-copyright = '2024, M'
-author = 'M'
+project = 'Układ Słoneczny - Budowa i Charakterystyka'
+copyright = '2024,@'
+author = 'Mateusz Gałecki'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
